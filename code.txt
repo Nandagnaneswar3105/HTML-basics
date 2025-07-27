@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title> SimpleSite </title>
+<style type="text/css">
+.img_pic
+{
+float:right;
+}
+.pic_pos
+{
+position:absolute;
+background-color:skyblue;
+padding:30px;
+}
+</style>
+</head>
+<body style="background-color:lightgreen;">
+<center>
+<h1>Welcome to our site</h1>
+<br>Enter the E-mail: <input type:"text">
+<br>Enter password <input type:"password">
+<br><button>click</button>
+<div class="pic_pos">
+<img class="img_pic" src="https://images.app.goo.gl/m2mKxcyF3GVyUjyb6" alt="code"  width="65px" height="35px">
+<p>Here you can learn how to code with us. We will provide you some sources to learn coding on online for free of cost. </p>
+</div>
+
+<br>
+<div>
+<h1> learn html in w3schools </h1>
+<a href="https://www.w3schools.com"><button>click me</a></button>
+<h2> learn css in codeacademy </h2>
+<a href="https://www.codecademy.com"><button>click me</a></button>
+<h3> learn javascript in javascript.com </h3>
+<a href="https://www.javascript.com"><button>click me</a></button>
+</div>
+</center>
+</body>
+</html>
